@@ -1,0 +1,6 @@
+{
+  "parent": "modblockmod:block/slab_thickness_one_all",
+  "textures": {
+    "all": "minecraft:block/modoak_planks"
+  }
+}

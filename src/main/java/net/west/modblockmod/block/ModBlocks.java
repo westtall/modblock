@@ -20,7 +20,7 @@ public class ModBlocks {
             DeferredRegister.create(ForgeRegistries.BLOCKS, ModblockMod.MOD_ID);
 
     public static final RegistryObject<Block> MODOAK_PLANKS = registerBlock("modoak_planks",
-            () ->new SlabBlock(BlockBehaviour.Properties.copy(Blocks.OAK_WOOD)));
+            () ->new SlabBlock(BlockBehaviour.Properties.copy(Blocks.OAK_SLAB)));
 
 
 
