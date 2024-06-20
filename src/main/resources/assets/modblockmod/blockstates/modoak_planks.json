@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=down,thickness=seven":  { "model": "minecraft:block/modoak_planks" },
+    "facing=up,thickness=seven":  { "model": "minecraft:block/modoak_planks" },
+    "facing=north,thickness=seven":  { "model": "minecraft:block/modoak_planks" },
+    "facing=south,thickness=seven":  { "model": "minecraft:block/modoak_planks" },
+    "facing=east,thickness=seven":  { "model": "minecraft:block/modoak_planks" },
+    "facing=west,thickness=seven":  { "model": "minecraft:block/modoak_planks" },
+
+    "facing=down,thickness=one":  { "model": "modblockmod:block/stack_slab_modoak_one" , "uvlock": true},
+    "facing=up,thickness=one":  { "model": "modblockmod:block/stack_slab_modoak_one" , "x": 180 , "uvlock": true},
+    "facing=north,thickness=one":  { "model": "modblockmod:block/stack_slab_modoak_one" , "x": 90, "y": 180 , "uvlock": true},
+    "facing=south,thickness=one":  { "model": "modblockmod:block/stack_slab_modoak_one" , "x": 90 , "uvlock": true},
+    "facing=east,thickness=one":  { "model": "modblockmod:block/stack_slab_modoak_one" , "x": 90, "y": 270 , "uvlock": true},
+    "facing=west,thickness=one":  { "model": "modblockmod:block/stack_slab_modoak_one" , "x": 90, "y": 90 , "uvlock": true},
+
+    "facing=down,thickness=two":  { "model": "modblockmod:block/stack_slab_modoak_two" , "uvlock": true},
+    "facing=up,thickness=two":  { "model": "modblockmod:block/stack_slab_modoak_two" , "x": 180 , "uvlock": true},
+    "facing=north,thickness=two":  { "model": "modblockmod:block/stack_slab_modoak_two" , "x": 90, "y": 180 , "uvlock": true},
+    "facing=south,thickness=two":  { "model": "modblockmod:block/stack_slab_modoak_two" , "x": 90 , "uvlock": true},
+    "facing=east,thickness=two":  { "model": "modblockmod:block/stack_slab_modoak_two" , "x": 90, "y": 270 , "uvlock": true},
+    "facing=west,thickness=two":  { "model": "modblockmod:block/stack_slab_modoak_two" , "x": 90, "y": 90 , "uvlock": true},
+
+    "facing=down,thickness=three":  { "model": "modblockmod:block/stack_slab_modoak_three" , "uvlock": true},
+    "facing=up,thickness=three":  { "model": "modblockmod:block/stack_slab_modoak_three" , "x": 180 , "uvlock": true},
+    "facing=north,thickness=three":  { "model": "modblockmod:block/stack_slab_modoak_three" , "x": 90, "y": 180 , "uvlock": true},
+    "facing=south,thickness=three":  { "model": "modblockmod:block/stack_slab_modoak_three" , "x": 90 , "uvlock": true},
+    "facing=east,thickness=three":  { "model": "modblockmod:block/stack_slab_modoak_three" , "x": 90, "y": 270 , "uvlock": true},
+    "facing=west,thickness=three":  { "model": "modblockmod:block/stack_slab_modoak_three" , "x": 90, "y": 90 , "uvlock": true},
+
+    "facing=down,thickness=four":  { "model": "modblockmod:block/stack_slab_modoak_four" , "uvlock": true},
+    "facing=up,thickness=four":  { "model": "modblockmod:block/stack_slab_modoak_four" , "x": 180 , "uvlock": true},
+    "facing=north,thickness=four":  { "model": "modblockmod:block/stack_slab_modoak_four" , "x": 90, "y": 180 , "uvlock": true},
+    "facing=south,thickness=four":  { "model": "modblockmod:block/stack_slab_modoak_four" , "x": 90 , "uvlock": true},
+    "facing=east,thickness=four":  { "model": "modblockmod:block/stack_slab_modoak_four" , "x": 90, "y": 270 , "uvlock": true},
+    "facing=west,thickness=four":  { "model": "modblockmod:block/stack_slab_modoak_four" , "x": 90, "y": 90 , "uvlock": true},
+
+    "facing=down,thickness=five":  { "model": "modblockmod:block/stack_slab_modoak_five" , "uvlock": true},
+    "facing=up,thickness=five":  { "model": "modblockmod:block/stack_slab_modoak_five" , "x": 180 , "uvlock": true},
+    "facing=north,thickness=five":  { "model": "modblockmod:block/stack_slab_modoak_five" , "x": 90, "y": 180 , "uvlock": true},
+    "facing=south,thickness=five":  { "model": "modblockmod:block/stack_slab_modoak_five" , "x": 90 , "uvlock": true},
+    "facing=east,thickness=five":  { "model": "modblockmod:block/stack_slab_modoak_five" , "x": 90, "y": 270 , "uvlock": true},
+    "facing=west,thickness=five":  { "model": "modblockmod:block/stack_slab_modoak_five" , "x": 90, "y": 90 , "uvlock": true},
+
+    "facing=down,thickness=six":  { "model": "modblockmod:block/stack_slab_modoak_six" , "uvlock": true},
+    "facing=up,thickness=six":  { "model": "modblockmod:block/stack_slab_modoak_six" , "x": 180 , "uvlock": true},
+    "facing=north,thickness=six":  { "model": "modblockmod:block/stack_slab_modoak_six" , "x": 90, "y": 180 , "uvlock": true},
+    "facing=south,thickness=six":  { "model": "modblockmod:block/stack_slab_modoak_six" , "x": 90 , "uvlock": true},
+    "facing=east,thickness=six":  { "model": "modblockmod:block/stack_slab_modoak_six" , "x": 90, "y": 270 , "uvlock": true},
+    "facing=west,thickness=six":  { "model": "modblockmod:block/stack_slab_modoak_six" , "x": 90, "y": 90 , "uvlock": true}
+  }
+}
